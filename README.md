@@ -1,1 +1,1 @@
-I am a high schooler who programmes in Java, Kotlin, Python, Z80 ASM, HTMl, and CSS.
+NixOS ftw; Elm for web development; Java bc I have to; Haskell because I want to

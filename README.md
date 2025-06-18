@@ -1,3 +1,7 @@
+# THIS ACCOUNT IS A MIRROR
+
+# My real account is [self hosted](https://git.mtgmonkey.net/Andromeda)
+
 ## 👋 Hey there! I'm MTGmonkey
 
 ### 👨🏻‍💻 About Me

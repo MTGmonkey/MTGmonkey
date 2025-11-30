@@ -25,13 +25,8 @@
 
 #### Platforms:
 ![Static Badge](https://img.shields.io/badge/-nixos-NixOS?logo=nixos&labelColor=white&color=5277C3)
-![Static Badge](https://img.shields.io/badge/-ubuntu-Ubuntu?logo=ubuntu&logoColor=E95420&labelColor=white&color=E95420)
 ![Static Badge](https://img.shields.io/badge/-openbsd-OpenBSD?logo=openbsd&logoColor=black&labelColor=white&color=F2CA30)
 ![Static Badge](https://img.shields.io/badge/-android-Android?logo=android&labelColor=white&color=3DDC84)
-\
-![Static Badge](https://img.shields.io/badge/-dwm-dwm?logo=dwm&logoColor=1177AA&labelColor=white&color=1177AA)
-![Static Badge](https://img.shields.io/badge/-xmonad-XMonad?color=fd4d5e)
-![Static Badge](https://img.shields.io/badge/-fdroid-FDroid?logo=f-droid&logoColor=1976D2&labelColor=white&color=1976D2)
 
 
 ### ⚙️ GitHub Analytics
